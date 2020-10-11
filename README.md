@@ -1,1 +1,1 @@
-# webtemplete2
+only html and css file
